@@ -14,7 +14,7 @@ A modern Design System Starter Template built with React, Vite, Tailwind CSS, an
 - **Frontend:** React, Vite, Tailwind CSS, Shadcn UI
 - **Design System:** Tokens, reusable components
 - **Icons:** Lucide React
-- *Optional:** TypeScript support
+- **Optional:** TypeScript support
 
 ## Demo
 
@@ -23,6 +23,6 @@ A modern Design System Starter Template built with React, Vite, Tailwind CSS, an
 ## How to Run Locally
 ```bash
 git clone https://github.com/Muhammad-221/designkit-project.git
-cd designkit-project
+cd My-Portfolio
 npm install
 npm run dev
